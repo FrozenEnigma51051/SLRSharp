@@ -1,0 +1,30 @@
+D:\University\7th semester\CC\lab-term\SLR_Parser\SLR_parser\obj\Debug\SLR_parser.csproj.AssemblyReference.cache
+D:\University\7th semester\CC\lab-term\SLR_Parser\SLR_parser\obj\Debug\SLR_parser.Form1.resources
+D:\University\7th semester\CC\lab-term\SLR_Parser\SLR_parser\obj\Debug\SLR_parser.Properties.Resources.resources
+D:\University\7th semester\CC\lab-term\SLR_Parser\SLR_parser\obj\Debug\SLR_parser.csproj.GenerateResource.cache
+D:\University\7th semester\CC\lab-term\SLR_Parser\SLR_parser\obj\Debug\SLR_parser.csproj.CoreCompileInputs.cache
+D:\University\7th semester\CC\lab-term\SLR_Parser\SLR_parser\bin\Debug\SLR_parser.exe.config
+D:\University\7th semester\CC\lab-term\SLR_Parser\SLR_parser\bin\Debug\SLR_parser.exe
+D:\University\7th semester\CC\lab-term\SLR_Parser\SLR_parser\bin\Debug\SLR_parser.pdb
+D:\University\7th semester\CC\lab-term\SLR_Parser\SLR_parser\obj\Debug\SLR_parser.exe
+D:\University\7th semester\CC\lab-term\SLR_Parser\SLR_parser\obj\Debug\SLR_parser.pdb
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Mini-compiler\SLR_parser\bin\Debug\SLR_parser.exe.config
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Mini-compiler\SLR_parser\bin\Debug\SLR_parser.exe
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Mini-compiler\SLR_parser\bin\Debug\SLR_parser.pdb
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Mini-compiler\SLR_parser\obj\Debug\SLR_parser.csproj.AssemblyReference.cache
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Mini-compiler\SLR_parser\obj\Debug\SLR_parser.Form1.resources
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Mini-compiler\SLR_parser\obj\Debug\SLR_parser.Properties.Resources.resources
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Mini-compiler\SLR_parser\obj\Debug\SLR_parser.csproj.GenerateResource.cache
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Mini-compiler\SLR_parser\obj\Debug\SLR_parser.csproj.CoreCompileInputs.cache
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Mini-compiler\SLR_parser\obj\Debug\SLR_parser.exe
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Mini-compiler\SLR_parser\obj\Debug\SLR_parser.pdb
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Terminal_Project\SLR_parser\obj\Debug\SLR_parser.csproj.AssemblyReference.cache
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Terminal_Project\SLR_parser\obj\Debug\SLR_parser.Form1.resources
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Terminal_Project\SLR_parser\obj\Debug\SLR_parser.Properties.Resources.resources
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Terminal_Project\SLR_parser\obj\Debug\SLR_parser.csproj.GenerateResource.cache
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Terminal_Project\SLR_parser\obj\Debug\SLR_parser.csproj.CoreCompileInputs.cache
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Terminal_Project\SLR_parser\obj\Debug\SLR_parser.exe
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Terminal_Project\SLR_parser\obj\Debug\SLR_parser.pdb
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Terminal_Project\SLR_parser\bin\Debug\SLR_parser.exe.config
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Terminal_Project\SLR_parser\bin\Debug\SLR_parser.exe
+C:\Users\asadg\OneDrive\Desktop\Compiler_Construction\Terminal_Project\SLR_parser\bin\Debug\SLR_parser.pdb

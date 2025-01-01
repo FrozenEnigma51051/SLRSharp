@@ -1,0 +1,58 @@
+1)
+
+E  ->  E + T    
+E  ->  E - T    
+E  ->  T        
+T  ->  T * F    
+T  ->  T / F    
+T  ->  F        
+F  ->  ( E )    
+F  ->  NUM
+NUM -> 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+
+Input String:
+(5 + 3) * (2 + 1)
+
+
+2)
+
+EXP -> EXP + TERM | EXP - TERM | TERM
+TERM -> TERM * FACTOR | FACTOR
+FACTOR -> ( EXP ) | NUM
+NUM -> 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+
+Input String:
+1 + 9 * 8 * ( 4 * ( 8 + 2 ) )
+
+
+3)
+
+CALC -> CALC + PART | CALC - PART | PART
+PART -> PART * ITEM | PART / ITEM | ITEM
+ITEM -> ( CALC ) | VAR | INTEGER
+INTEGER -> 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+VAR -> a | b | c
+
+Input String:
+a / b * c
+
+4)
+
+S -> ID = E
+E -> ID | NUM | E + E | E - E | E * E | E / E
+ID -> a | b | c
+NUM -> 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+
+Input String:
+a = b * c + 5
+
+5)
+
+BASEDNUM -> NUM BASECHAR
+BASECHAR -> o | d
+NUM -> NUM DIGIT | DIGIT
+DIGIT -> 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+
+
+
+
